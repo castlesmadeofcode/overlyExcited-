@@ -79,4 +79,4 @@ function addExcitement (theWordArray) {
 
 }
 
-addExcitement(sentence)
+addExcitement(sentence);
